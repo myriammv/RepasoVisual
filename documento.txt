@@ -1,0 +1,1 @@
+Modifico documento.txt desde local en ramaNueva
